@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main>Petisiya</main>;
+    return <main>Petisiya</main>;
 }
