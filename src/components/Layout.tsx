@@ -14,7 +14,7 @@ export default function Layout({ children }: Props) {
                     content="width=device-width, initial-scale=1"
                 />
             </Head>
-            <main>
+            <main className="bg-slate-900 text-white">
                 <div>{children}</div>
             </main>
         </>
